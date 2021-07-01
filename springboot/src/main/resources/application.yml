@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    password: Khyf3@123
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://119.23.233.186:10000/xplat_ceshi?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+    username: hsy
